@@ -21,8 +21,8 @@
 <br>I also used pyLDAvis package, which can visualize the result of LDA model. It shows that the training result did a decent classification job.
 <br>![result](https://user-images.githubusercontent.com/36937088/50495570-da37f200-09de-11e9-8270-b99e4e841a4a.png)
 ## Installtion
-sklearn 0.19.1
-matplotlib 2.1.2
-numpy 1.14.6
-pyLDAvis 2.1.2
-jieba 0.39
+<br>sklearn 0.19.1
+<br>matplotlib 2.1.2
+<br>numpy 1.14.6
+<br>pyLDAvis 2.1.2
+<br>jieba 0.39
